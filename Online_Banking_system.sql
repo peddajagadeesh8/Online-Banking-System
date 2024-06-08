@@ -14,7 +14,6 @@ CREATE TABLE `accounts` (
 );
 describe accounts;
 
-
 INSERT INTO `accounts` VALUES 
   (1,1,'Savings',1500.00,'2020-01-01','Active'),
   (2,1,'Checking',500.00,'2020-02-01','Active'),
