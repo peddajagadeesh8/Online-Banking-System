@@ -1,4 +1,4 @@
-CREATE DTBASE online_banking_system;
+CREATE DATABASE online_banking_system;
 USE online_banking_system;
 
 CREATE TABLE `accounts` (
