@@ -116,7 +116,7 @@ INSERT INTO `accounts` VALUES
   (98,97,'Savings',6400.00,'2019-02-01','Active'),
   (99,98,'Checking',5000.00,'2020-03-01','Inactive'),
   (100,99,'Savings',6500.00,'2018-04-01','Active');
-
+select * from accounts;
 
 CREATE TABLE `branches` (
   `BranchID` int NOT NULL,
@@ -230,7 +230,7 @@ INSERT INTO `branches` VALUES (1,'Downtown','123 MG Road, Bengaluru','080-123456
   (98,'Jade Junction','9595 JP Nagar, Bengaluru','080-8901253',98),
   (99,'Kyanite Knoll','9696 BTM Layout, Bengaluru','080-9012364',99),
   (100,'Lapis Lane','9797 HSR Layout, Bengaluru','080-0123475',100);
-
+select * from accounts;
 
 CREATE TABLE `customers` (
   `CustomerID` int NOT NULL,
@@ -344,7 +344,7 @@ INSERT INTO `customers` VALUES
   (98,'Bhavna','Deshmukh','8bhavna.deshmukh@example.com','1988-02-06','9876543307'),
   (99,'Nitin','Ahuja','9nitin.ahuja@example.com','1983-03-07','9876543308'),
   (100,'Ritu','Malhotra','10ritu.malhotra@example.com','1991-04-08','9876543309');
-
+select * from customers;
 
 CREATE TABLE `loans` (
   `LoanID` int NOT NULL,
@@ -461,6 +461,7 @@ INSERT INTO `loans` VALUES
   (98,98,'Car Loan',31000.00,5.80,'2019-10-01'),
   (99,99,'Personal Loan',29000.00,7.00,'2021-11-01'),
   (100,100,'Student Loan',45000.00,4.20,'2018-04-01');
+select * from loans;
 
 CREATE TABLE `transactions` (
   `TransactionID` int NOT NULL,
@@ -474,7 +475,6 @@ CREATE TABLE `transactions` (
   CONSTRAINT `transactions_ibfk_1` FOREIGN KEY (`AccountID`) REFERENCES `accounts` (`AccountID`)
 ) 
 describe transactions;
-
 
 INSERT INTO `transactions` VALUES (1,1,'Deposit',1000.00,'2023-01-01 04:30:00','Initial Deposit'),
   (2,1,'Withdrawal',200.00,'2023-01-02 05:30:00','ATM Withdrawal'),
@@ -576,3 +576,4 @@ INSERT INTO `transactions` VALUES (1,1,'Deposit',1000.00,'2023-01-01 04:30:00','
   (98,97,'Withdrawal',350.00,'2023-04-08 13:30:00','Car Maintenance'),
   (99,98,'Deposit',500.00,'2023-04-09 03:30:00','Gift Deposit'),
   (100,99,'Withdrawal',100.00,'2023-04-10 04:30:00','Movie Tickets');
+select * from transactions;
