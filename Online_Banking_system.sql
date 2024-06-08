@@ -230,7 +230,7 @@ INSERT INTO `branches` VALUES (1,'Downtown','123 MG Road, Bengaluru','080-123456
   (98,'Jade Junction','9595 JP Nagar, Bengaluru','080-8901253',98),
   (99,'Kyanite Knoll','9696 BTM Layout, Bengaluru','080-9012364',99),
   (100,'Lapis Lane','9797 HSR Layout, Bengaluru','080-0123475',100);
-select * from accounts;
+select * from branches;
 
 CREATE TABLE `customers` (
   `CustomerID` int NOT NULL,
@@ -358,7 +358,6 @@ CREATE TABLE `loans` (
   CONSTRAINT `loans_ibfk_1` FOREIGN KEY (`CustomerID`) REFERENCES `customers` (`CustomerID`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 describe loans;
-
 
 INSERT INTO `loans` VALUES 
   (1,1,'Home Loan',250000.00,3.50,'2020-06-01'),
