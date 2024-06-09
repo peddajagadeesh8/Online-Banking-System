@@ -20,11 +20,11 @@ A railway management system (RMS) utilizes software and technology to manage var
 
 Contains the Entity-Relationship diagram of our database.
 
-## Railway_management_system.sql
+## Online-Banking-System.sql
 
 This is the SQL code for the project. The database consists of 6 tables.
 
-## Railway_management_system.ipynb
+## Online-Banking-System.ipynb
 
 This is the Python Code for the project. It Consists Data Manipulation & Data Visualization
 
