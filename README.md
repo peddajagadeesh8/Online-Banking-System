@@ -5,7 +5,7 @@
 An Online Banking System is a digital platform that allows customers to perform a variety of financial transactions and manage their bank accounts over the internet. This system provides a convenient and secure way for users to access banking services from the comfort of their homes or on the go, using a computer or mobile device.
 ## Key Features
 
-A railway management system (RMS) utilizes software and technology to manage various aspects of railway operations.
+Online-Banking-System utilizes software and technology to manage various aspects of Online-Banking-System.
 ## Features:
 ### Account Management:
 •  Customers can view their account balances, transaction history, and account statements.
