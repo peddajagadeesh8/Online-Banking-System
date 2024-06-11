@@ -27,6 +27,9 @@ Transaction History: Customers can view a detailed history of their transactions
 Real-time Notifications: Customers receive real-time alerts and notifications for transactions, ensuring they are aware of any activity on their accounts.
 Dispute Management: The system allows customers to report and manage disputes related to unauthorized or incorrect transactions, providing a secure way to resolve issues.
 
+## Card
+The card DataFrame contains information about the credit and debit cards issued to customers. It includes details such as the card number, card type, expiry date, and CVV code. This information can be used to track card usage, monitor fraud, and generate reports on card activity.
+
 Online-Banking-System utilizes software and technology to manage various aspects of Online-Banking-System.
 
 
