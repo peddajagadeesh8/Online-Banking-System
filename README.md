@@ -1,7 +1,7 @@
 # Online-Banking-System
 
 # Purpose: 
-An online banking system is a digital platform that allows customers to access and manage their bank accounts from anywhere with an internet connection.
+An online banking system enables customers to manage their bank accounts remotely through a digital platform. It provides convenience and accessibility by allowing users to access their accounts from anywhere with an internet connection. This system typically includes features such as account balance inquiries, funds transfers, bill payments, and account statement viewing.
 
 # Description
 
