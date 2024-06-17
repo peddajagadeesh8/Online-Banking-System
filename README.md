@@ -2,36 +2,7 @@
 
 ## Description
 
-An Online Banking System is a digital platform that allows customers to perform a variety of financial transactions and manage their bank accounts over the internet. This system provides a convenient and secure way for users to access banking services from the comfort of their homes or on the go, using a computer or mobile device.
-
-## Key Features
-
-## Customers
-Account Management: Customers can create, view, and manage their bank accounts, including checking and savings accounts.
-Personal Information: Customers can update their personal information, such as contact details, address, and preferences for communication.
-Authentication and Security: Customers can securely log in to their accounts using multi-factor authentication, ensuring their personal and financial information is protected.
-## Loan
-Loan Application: Customers can apply for various types of loans, such as personal, home, and auto loans, directly through the online banking system.
-Loan Management: Customers can view their loan details, including outstanding balance, interest rate, and repayment schedule, and make payments online.
-Loan Calculator: The system provides tools to calculate potential loan amounts, monthly payments, and interest rates, helping customers make informed decisions.
-## Account
-Account Overview: Customers can view a summary of their account balances, recent transactions, and other account details in a user-friendly dashboard.
-Fund Transfers: Customers can transfer funds between their own accounts or to other accounts, both within the same bank and to external banks.
-Account Statements: Customers can download or view detailed account statements for any specified period, helping them keep track of their finances.
-## Branch
-Branch Locator: The system provides a tool for customers to find the nearest bank branches, including addresses, contact details, and operating hours.
-Appointment Scheduling: Customers can schedule appointments with branch representatives for services that require in-person visits, such as loan consultations or account opening.
-Branch Services Information: Customers can view the services offered at each branch, such as ATM availability, specialized financial advice, and customer support.
-## Transactions
-Transaction History: Customers can view a detailed history of their transactions, including deposits, withdrawals, transfers, and payments, with filtering options for easy navigation.
-Real-time Notifications: Customers receive real-time alerts and notifications for transactions, ensuring they are aware of any activity on their accounts.
-Dispute Management: The system allows customers to report and manage disputes related to unauthorized or incorrect transactions, providing a secure way to resolve issues.
-
-## Card
-The card DataFrame contains information about the credit and debit cards issued to customers. It includes details such as the card number, card type, expiry date, and CVV code. This information can be used to track card usage, monitor fraud, and generate reports on card activity.
-
-Online-Banking-System utilizes software and technology to manage various aspects of Online-Banking-System.
-
+An online banking system typically includes features such as account balance inquiries, funds transfers, bill payments, and account statement viewing. Customers can access their accounts through a website or mobile app, and may need to enter a username and password to log in. The system may also use security measures such as two-factor authentication to ensure that only authorized users can access the accounts.
 
 ## ER Diagram
 
