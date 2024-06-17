@@ -1,9 +1,9 @@
 # Online-Banking-System
 
-## Purpose: 
+# Purpose: 
 An online banking system is a digital platform that allows customers to access and manage their bank accounts from anywhere with an internet connection.
 
-## Description
+# Description
 
 An online banking system typically includes features such as account balance inquiries, funds transfers, bill payments, and account statement viewing. Customers can access their accounts through a website or mobile app, and may need to enter a username and password to log in. The system may also use security measures such as two-factor authentication to ensure that only authorized users can access the accounts.
 
@@ -19,6 +19,6 @@ This is the SQL code for the project. The database consists of 6 tables.
 
 This is the Python Code for the project. It Consists Data Manipulation & Data Visualization
 
-## Conclusion
+# Conclusion
 
 An online banking system offers customers the ability to manage their finances remotely with convenience, accessibility, and security. It includes features such as real-time account monitoring, personal finance management tools, and customizable alerts. As technology advances, online banking systems will continue to evolve to provide even more innovative solutions for seamless banking experiences.
