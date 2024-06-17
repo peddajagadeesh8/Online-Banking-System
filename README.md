@@ -21,4 +21,4 @@ This is the Python Code for the project. It Consists Data Manipulation & Data Vi
 
 ## Conclusion
 
-In conclusion, an Online Banking System revolutionizes the traditional banking experience by providing unparalleled convenience, accessibility, and security. By integrating a wide range of features such as real-time account monitoring, it empowers customers to manage their finances efficiently from anywhere at any time. The inclusion of personal finance management tools, customizable alerts, and comprehensive customer support further enhances user satisfaction and engagement. As technology continues to advance, online banking systems will undoubtedly evolve to offer even more innovative solutions, ensuring that banking remains a seamless and integral part of everyday life.
+An online banking system offers convenient, accessible, and secure management of bank accounts with real-time monitoring and personal finance tools. It is continuously evolving to provide innovative solutions for seamless banking experiences.
