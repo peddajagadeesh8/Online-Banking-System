@@ -1,24 +1,60 @@
-# Online-Banking-System
+# ONLINE BANKING SYSTEM
 
-# Purpose: 
-An online banking system enables customers to manage their bank accounts remotely through a digital platform. It provides convenience and accessibility by allowing users to access their accounts from anywhere with an internet connection. This system typically includes features such as account balance inquiries, funds transfers, bill payments, and account statement viewing.
+## Overview
 
-# Description
+This project implements a MySQL database designed to efficiently manage and organize project-related data. It includes six related tables to store various aspects of the project, enabling streamlined data retrieval and manipulation. The project also involves data cleaning and analysis using Python, along with visualizations created with Matplotlib to illustrate key findings.
 
-An online banking system typically includes features such as account balance inquiries, funds transfers, bill payments, and account statement viewing. Customers can access their accounts through a website or mobile app, and may need to enter a username and password to log in. The system may also use security measures such as two-factor authentication to ensure that only authorized users can access the accounts.
+## Table of Contents
 
-## ER Diagram
+- [Purpose](#purpose)
+- [Database Design](#database-design)
+- [Data Analysis](#data-analysis)
+- [Visualizations](#visualizations)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
 
-Contains the Entity-Relationship diagram of our database.
+## Purpose
 
-## Online-Banking-System.sql
+The primary objectives of this project are:
 
-This is the SQL code for the project. The database consists of 6 tables.
+1. **Data Organization**: Establishing a clear framework for storing project information.
+2. **Data Integrity**: Maintaining relationships between different data entities to promote consistency and accuracy.
+3. **Data Analysis**: Performing data cleaning and extracting insights using Python.
+4. **Visualization**: Developing charts and graphs using Matplotlib to illustrate key findings.
+5. **Enhanced Decision-Making**: Supporting informed decision-making through systematic data management and analysis.
 
-## Online-Banking-System.ipynb
+## Database Design
 
-This is the Python Code for the project. It Consists Data Manipulation & Data Visualization
+An Entity-Relationship (ER) diagram has been created to represent the database architecture and relationships among the six tables. This diagram serves as a blueprint for the database structure.
 
-# Conclusion
+![ER Diagram](path/to/your/er_diagram.png)  <!-- Replace with the path to your ER diagram image -->
 
-An online banking system offers customers the ability to manage their finances remotely with convenience, accessibility, and security. It includes features such as real-time account monitoring, personal finance management tools, and customizable alerts. As technology advances, online banking systems will continue to evolve to provide even more innovative solutions for seamless banking experiences.
+## Data Analysis
+
+Data cleaning and analysis were performed using Python to extract meaningful insights from the dataset. This process involved:
+
+- Identifying and handling missing values
+- Normalizing data formats
+- Conducting exploratory data analysis (EDA)
+
+## Visualizations
+
+Visualizations were created using Matplotlib to illustrate key findings from the data analysis. These visualizations include:
+
+- Bar charts
+- Line graphs
+- Pie charts
+
+You can find the visualizations in the `visualizations` folder.
+
+## Technologies Used
+
+- MySQL
+- Python
+- Matplotlib
+- Pandas
+- Jupyter Notebook (for analysis and visualization)
+
+
