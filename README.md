@@ -29,7 +29,7 @@ The primary objectives of this project are:
 
 An Entity-Relationship (ER) diagram has been created to represent the database architecture and relationships among the six tables. This diagram serves as a blueprint for the database structure.
 
-![ER Diagram](path/to/your/er_diagram.png)  <!-- Replace with the path to your ER diagram image -->
+![ER Diagram]ER Diagram.pdf)  <!-- Replace with the path to your ER diagram image -->
 
 ## Data Analysis
 
